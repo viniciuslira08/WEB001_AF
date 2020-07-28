@@ -1,0 +1,11 @@
+git clone https://github.com/viniciuslira08/WEB001_AF.git (Para clonar o arquivo na minha maquina)
+
+cd WEB001_AF (Para abrir a pasta)
+
+git status (Para verificar o estado dos meus arquivos)
+
+git add * (Para adicionar os arquivos na pasta)
+
+git status (Novamente para ver as alterações)
+
+git commit -m "Entrega da prova final"
