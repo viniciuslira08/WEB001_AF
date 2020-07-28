@@ -9,3 +9,5 @@ git add * (Para adicionar os arquivos na pasta)
 git status (Novamente para ver as alterações)
 
 git commit -m "Entrega da prova final"
+
+git push origin master
